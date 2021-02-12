@@ -1,7 +1,7 @@
 {
   "url": "https://www.airbnb.ca/calendar/ical/1117159.ics?s=6d9cddc04a5c4080a1f1672721ed87ea",
   "title": "Availability",
-  "css": ".event, .dhx_cal_tab.active, .dhx_cal_tab.active:hover {background-color: #a8a6a1;} .dhx_month_head, .dhx_cal_tab, .dhx_cal_today_button {color: #a8a6a1;} .dhx_cal_tab, .dhx_cal_tab.active {border-color: #a8a6a1;}\n.dhx_cal_tab week_tab {\n    display: none !important; pointer-events: none;\n  }",
+  "css": ".event, .dhx_cal_tab.active, .dhx_cal_tab.active:hover {background-color: #a8a6a1;} .dhx_month_head, .dhx_cal_tab, .dhx_cal_today_button {color: #a8a6a1;} .dhx_cal_tab, .dhx_cal_tab.active {border-color: #a8a6a1;}\n.dhx_cal_tab week_tab {\n    display: none !important;\n  }\n\n#open-web-calendar{pointer-events: none;}",
   "loader": "",
   "tabs": []
 }
